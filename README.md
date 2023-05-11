@@ -1,4 +1,4 @@
-A small project for MIC Transformer. Ace-Game is simple animated deck of cards, created using react.js, [React Simple Animate](https://github.com/bluebill1049/react-simple-animate) and [Deck of Cards API](https://deckofcardsapi.com/). 
+Ace-Game is simple animated deck of cards, created using react.js, [React Simple Animate](https://github.com/bluebill1049/react-simple-animate) and [Deck of Cards API](https://deckofcardsapi.com/). 
 
 ## URL
 
